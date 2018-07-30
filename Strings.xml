@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InventoryAppPart1</string>
+    <string name="action_insert_dummy_data">Insert dummy data</string>
+    <string name="action_delete_all_entries">Delete all entries</string>
+    <string name="number_of_rows_in_books_database_table">Number of rows in books database table:</string>
+    <string name="The_books_table_contains">The books table contains</string>
+</resources>
